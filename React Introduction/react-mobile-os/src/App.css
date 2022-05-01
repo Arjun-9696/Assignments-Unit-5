@@ -1,0 +1,9 @@
+ul.b>li:nth-child(1){
+  list-style-type:square;
+}
+ul.b>li:nth-child(2) {
+  list-style-type: square;
+}
+ul.b>li:nth-child(4) {
+  list-style-type: circle;
+}
